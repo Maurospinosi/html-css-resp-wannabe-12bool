@@ -16,9 +16,6 @@ h3{
 .second{
   background-color: rgb(249, 249, 249);
 }
-.container .col-lg-3{
-  width: 33.3333%;
-}
 .tird{
   background-color: rgb(249, 249, 249);
   margin-top: 100px;
@@ -35,7 +32,4 @@ h3{
 }
 hr{
   margin: 10px 0;
-}
-.container .col-xs-12{
-  width: 100%;
 }
