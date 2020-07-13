@@ -16,8 +16,10 @@ h3{
 .second{
   background-color: rgb(249, 249, 249);
 }
-section .col-lg-3{
+.container > .col-lg-3{
+  width: 33.33333%;
   display: inline-block;
+  text-align: center;
 }
 /* .central-img{
   margin-left: 12.5%;
