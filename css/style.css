@@ -21,10 +21,6 @@ h3{
   display: inline-block;
   text-align: center;
 }
-/* .central-img{
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-} */
 .tird{
   background-color: rgb(249, 249, 249);
   margin-top: 100px;
@@ -38,4 +34,10 @@ h3{
   padding: 30px;
   height: 250px;
   width: 250px;
+}
+hr{
+  margin: 10px 0;
+}
+.col-xs-12{
+  display: inline-block;
 }
