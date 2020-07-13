@@ -16,10 +16,24 @@ h3{
 .second{
   background-color: rgb(249, 249, 249);
 }
+section .col-lg-3{
+  display: inline-block;
+}
 /* .central-img{
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
 } */
 .tird{
-  text-align: center;
+  background-color: rgb(249, 249, 249);
+  margin-top: 100px;
+}
+.col-lg-12{
+  padding: 40px 0;
+}
+.col-lg-12 img{
+  background-color: rgb(66, 139, 202);
+  border-radius: 100%;
+  padding: 30px;
+  height: 250px;
+  width: 250px;
 }
